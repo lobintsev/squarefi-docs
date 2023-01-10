@@ -1,10 +1,10 @@
 {
   "homepage": {
     "title": {
-      "main": "Create accessible React apps",
+      "main": "Create accessible REIT portals",
       "highlighted": "with speed"
     },
-    "message": "Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.",
+    "message": "SQUAREFI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.",
     "get-started": "Get Started",
     "supported-and-backed-by": "Supported and Backed by",
     "your-company": "Your company",
@@ -56,7 +56,7 @@
       "title": "Loved by product people like you"
     },
     "support-chakra-ui-section": {
-      "title": "Support Chakra UI 💖",
+      "title": "Support SQUAREFI 💖",
       "description": "Our maintainers devote their time, effort, and heart to ensure Chakra UI keeps getting better. Support us by donating to our collective 🙏",
       "sponsor-the-chakra-ui-maintainers": "Sponsor the Chakra UI maintainers",
       "sponsor-the-creator": "Sponsor the creator, Segun Adebayo",
