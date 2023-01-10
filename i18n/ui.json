@@ -15,7 +15,7 @@
       "description": "Opinionated and designed for daily use.",
       "accessible": {
         "title": "Accessible",
-        "description": "Chakra UI strictly follows WAI-ARIA standards for all components."
+        "description": "SQUAREFI strictly follows WAI-ARIA standards for all components."
       },
       "themeable": {
         "title": "Themeable",
@@ -39,7 +39,7 @@
       }
     },
     "built-with-chakra-section": {
-      "title": "Built with Chakra UI ⚡️",
+      "title": "Built with SQUAREFI ⚡️",
       "description": "Your project can look as good as these! Check them out, get inspired!",
       "see-showcase": "See showcase"
     },
@@ -65,11 +65,11 @@
     },
     "event-section": {
       "title": "Invite us to speak at your next event",
-      "description": "Want a Chakra UI core team member to speak at your next event? Invite us to create a memorable and engaging experience for your attendees.",
+      "description": "Want a SQUAREFI core team member to speak at your next event? Invite us to create a memorable and engaging experience for your attendees.",
       "invite-us-to-speak": "Invite us to speak"
     },
     "seo": {
-      "title": "Chakra UI - A simple, modular and accessible component library that gives you the building blocks you need to build your React applications.",
+      "title": "SQUAREFI - A simple, modular and accessible component library that gives you the building blocks you need to build your React applications.",
       "description": "Simple, Modular and Accessible UI Components for your React Applications. Built with Styled System"
     }
   },
@@ -90,10 +90,10 @@
   },
   "resources": {
     "title": "Community Resources",
-    "description": "A rich compilation of technical descriptions and detailed information of how Chakra UI works.",
+    "description": "A rich compilation of technical descriptions and detailed information of how SQUAREFIworks.",
     "showcaseBannerTitle": "Visit the Showcase",
     "showcaseBannerDescription": "See what other Devs made with Chakra UI. Those are community projects, websites, libraries, tools, articles and videos that you can use to get inspired, implement a feature, or learn Chakra UI.",
-    "message": "A rich compilation of technical descriptions and detailed information of how Chakra UI works.",
+    "message": "A rich compilation of technical descriptions and detailed information of how SQUAREFI works.",
     "searchFilter": {
       "helperText": "Filter by resource title.",
       "label": "Search",
@@ -110,7 +110,7 @@
     }
   },
   "team": {
-    "title": "Chakra UI Team",
+    "title": "SQUAREFI Team",
     "message": "Amazing engineers who have contributed time, effort, and thought to Chakra UI. Without them, this project would not be possible.",
     "core-team": "Core Team 🤝",
     "former-members": "Former Core Team 🏅",
@@ -126,11 +126,11 @@
   "component": {
     "chakra-pro": {
       "ad-banner": {
-        "message": "Build faster with Premium Chakra UI Components 💎",
+        "message": "Build faster with SQUAREFI WhiteLabel💎",
         "learn-more": "Learn more"
       },
       "docs-page-ad": {
-        "message-bold": "Chakra UI Pro:",
+        "message-bold": "SQUAREFI Whitelabel:",
         "message": "Start your application or marketing site with a growing collection of beautiful and responsive UI components.",
         "ads-via-chakra-ui": "Ads via Chakra UI"
       },
@@ -138,7 +138,7 @@
         "premium-components": "Premium components",
         "new": "New",
         "build-fasler": "Build faster",
-        "with-chakra-ui-pro": "with Chakra UI Pro 💎",
+        "with-chakra-ui-pro": "with SquareFi WhiteLabel 💎",
         "description": "Beautiful and responsive React components to build your application or marketing pages quicker.",
         "learn-more": "Learn more"
       }
