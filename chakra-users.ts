@@ -7,13 +7,13 @@ interface User {
 
 const users: User[] = [
   {
-    name: 'Echobind',
+    name: 'Company1',
     image: '/logos/echobind.svg',
     url: 'https://echobind.com/',
     type: 'company',
   },
   {
-    name: 'Lattice',
+    name: 'Company2',
     image: '/logos/lattice-logo.svg',
     url: 'https://lattice.com/',
     type: 'company',
